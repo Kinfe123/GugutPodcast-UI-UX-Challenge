@@ -1,0 +1,11 @@
+.platform-listens {
+    width: 98.4vw;
+    height: 230px;
+    background-color: #FFC475;
+}
+.platforms {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 80px;
+}

@@ -1,0 +1,46 @@
+.podcast-container {
+    display: grid;
+    margin-top: 20px;
+    grid-template-columns: repeat(3 , 1fr);
+    margin: 20px;
+    
+
+}
+
+.player {
+    color: #F08F1A;
+}
+.underline {
+    border: 1px solid rgb(255,107,0);
+    margin-bottom: 10px;
+    width: 50px;
+
+}
+h4 {
+    margin-bottom: 10px;
+}
+.description .lenght {
+
+    margin-left: 120px;
+    
+}
+.description {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.player {
+    margin-top: 4px;
+    margin-right: 10px;
+
+}
+.description p {
+    color: #F08F1A;
+}
+ .fa-clocks {
+    color: #F08F1A;
+}
+.together {
+    display: flex;
+    flex-direction: row;
+}
